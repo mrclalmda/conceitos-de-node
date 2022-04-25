@@ -1,7 +1,8 @@
 # Ignite RocketSeat: Conceitos de NodeJS
 Entrega do primeiro desafio do Ignite da RocketSeat
 
-Aplicação para gerenciar tarefas (em inglês *todos*). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
+Aplicação para gerenciar tarefas (em inglês *todos*). 
+Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
 
 - Criar um novo *todo*;
 - Listar todos os *todos*;
