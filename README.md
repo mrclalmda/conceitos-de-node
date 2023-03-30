@@ -1,6 +1,7 @@
 Conceitos de NodeJS
 
-Aplicação para gerenciar tarefas (em inglês *todos*). 
+Aplicação básica, sem integração com banco de dados, para gerenciar tarefas (em inglês *todos*). 
+
 Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
 
 - Criar um novo *todo*;
